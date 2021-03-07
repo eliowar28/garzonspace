@@ -2,13 +2,27 @@
   "name": "garzon-space",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "7.4.0",
+    "node": "15.6.0"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.1",
+    "animate.css": "^4.1.1",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-icons": "^4.2.0",
+    "react-player": "^2.9.0",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.2",
+    "react-transition-group": "^4.4.1",
+    "simple-react-lightbox": "^3.6.3",
+    "styled-components": "^5.2.1",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
